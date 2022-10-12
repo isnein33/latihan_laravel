@@ -1,2 +1,2 @@
-<?php echo Hello Word
-ini adalah baris ke 2
+<?php 
+"ini adalah baris ke 2"
