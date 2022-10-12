@@ -1,2 +1,2 @@
-<?php 
-echo Hello Word
+<?php echo Hello Word
+ini adalah baris ke 2
